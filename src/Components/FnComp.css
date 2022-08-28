@@ -1,0 +1,17 @@
+.Fn-div{
+    width: 35vw;
+    height:300px;
+    box-sizing: border-box;
+    padding: 20px;
+    text-align: center;
+    border: 2px solid red;
+    border-radius: 20px;
+    background-color: rgb(183, 215, 54);
+    position: absolute;
+    left: 7vw;
+    top: 270px;
+    
+}
+.textOne{
+    color: rgb(184, 184, 225);
+}
